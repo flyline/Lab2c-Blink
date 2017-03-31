@@ -1,5 +1,5 @@
 /* ************************************************************************** */
-/** Descriptive File Name:     main.c for Lab 2a
+/** Descriptive File Name:     main.c for Lab 2c
 
   @ Author
     Richard Wall
@@ -9,6 +9,9 @@
 
   @ Verified
     February 28, 2017
+    
+  @ Updated 
+    March31, 2017
  
   @Company
     Digilent Inc.
